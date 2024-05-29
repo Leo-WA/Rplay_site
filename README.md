@@ -10,7 +10,6 @@ Este projeto é uma landing page desenvolvida para o serviço de IPTV Mundo Play
 - **HTML**: 
 - **JavaScript**: 
 - **CSS**: 
-- **SCSS**: 
 
 ## Descrição
 A landing page para o IPTV Mundo Play foi projetada para ser visualmente atraente e altamente funcional. Com um design focado em conversão, a página inclui elementos que destacam os benefícios do serviço e facilitam a inscrição dos usuários.
